@@ -1,0 +1,40 @@
+.app {
+    max-width: 800px;
+    padding: 50px;
+    align-items: center;
+}
+h2 {
+    color: lightblue;
+    border-bottom: 2px solid lightblue;
+}
+.header {
+    text-align: center;
+    color: lightblue;
+    font-weight: bold;
+}
+.header p {
+    color: black;
+    font-size: 30px;
+}
+
+.result-error {
+    margin-top: 50px;
+    text-align: center;
+    color: red;
+}
+.result-success {
+    text-align: center;
+    color: green
+}
+.search-bar button {
+    margin-left: 10px;
+    border-radius: 2px;
+}
+
+.search-bar input {
+  padding: 2.5px;   
+  border-radius: 2px;
+}
+.result {
+    text-align: center;
+}
